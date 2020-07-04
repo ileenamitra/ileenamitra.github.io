@@ -2,8 +2,8 @@
 baseurl = "https://ileenamitra.github.io" #without ending slash
 languageCode = "en-us"
 title = "Ileena Mitra"
-theme = "hugo-identity-theme"
-themesDir = "./themes"
+theme = ""
+themesDir = "."
 
 # Disable unnecessary kinds
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
